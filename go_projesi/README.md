@@ -26,7 +26,7 @@ cd go-postgresql-proje
 
 3. PostgreSQL veritabanını oluşturun:
 
-# Örneğin, psql komutunu kullanarak
+# psql komutunu kullanarak
 psql -U postgres -c "CREATE DATABASE go_projesi"
 
 4. Proje bağımlılıklarını yükleyin:
@@ -37,7 +37,7 @@ go mod tidy
 
 go run main.go
 
-API şimdi http://localhost:8080 adresinde çalışmaya başlamalıdır.
+API http://localhost:8080 adresinde çalışmaya başlamalıdır.
 
 Kullanım
 
