@@ -54,6 +54,3 @@ API'yi test etmek için Postman veya cURL gibi bir araç kullanarak istekler yap
 
 
 
-Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
